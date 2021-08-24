@@ -1,0 +1,55 @@
+.main{
+				margin: 0;
+				width: 100%;
+				height: 40%;
+				border: 6px solid pink;
+				border-radius: 4%;
+				text-align: center;
+			font-size: 15px;
+			float:left;
+				background:linear-gradient(90deg,blue,green,red);
+}
+.main a{
+				color: white;
+				font-size: 40px;
+		
+}
+.main img{
+				float: left;
+				display: block;
+}
+body{
+				margin: 0;
+				font-family: verdana;
+}
+.main-menu{
+
+				
+				
+				
+}
+.main-menu ul{
+				margin: 0;
+				
+				
+				
+}
+.main-menu ul li{
+				float: left;
+				text-align: center;
+				font-size: 30px;
+				padding: 5px;
+				
+}
+
+.main-menu ul li a{
+				text-decoration:none ;
+				padding: 10px 12px;
+				display: block;
+				color: #000000;
+				}
+.main-menu ul li a:hover{
+
+				color: white;
+				background-color: #ff1f00;
+}
